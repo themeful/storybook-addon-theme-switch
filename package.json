@@ -48,7 +48,7 @@
     "@storybook/core-events": "7.6.4",
     "@storybook/theming": "7.6.4",
     "core-js": "3.34.0",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "memoizerific": "1.11.3",
     "util-deprecate": "1.0.2"
   },
